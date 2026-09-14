@@ -13,7 +13,7 @@ Senior CS student at Morehouse College, from Chicago, building my way toward a s
 ### 🚀 Some things I've built
 
 **FlowForge — Warehouse Execution Control Tower**
-Team lead + Orchestration & Scheduling Lead on a CSC 480 project: order intake, task generation, a state machine, a greedy assigner, and pathfinding optimization (BFS/Dijkstra).
+Team lead + Orchestration & Scheduling Lead on a Senior Capstone project: order intake, task generation, a state machine, a greedy assigner, and pathfinding optimization (BFS/Dijkstra).
 `Next.js` `FastAPI` `MySQL/Cloud SQL` `Firebase` `Vercel` `Cloud Run`
 
 **BlindEye — 🥇 1st Place, HBCU Battle of the Brains 2026**
