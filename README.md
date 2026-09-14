@@ -20,7 +20,7 @@ Team lead + Orchestration & Scheduling Lead on a Senior Capstone project: order 
 Conceived and helped architect an AI-commerce analytics platform that cross-references user interest data against multiple LLMs to measure how AI systems represent and recommend businesses. Designed the data pipeline/schema and built the visibility-metric visualizations, with a team of 8.
 
 **REACH GenAI Consortium — Public Dissemination Platform**
-Fullstack engineer for INSPIRE 2026; designed the relational schema, configured Cloud Storage, and built out the frontend on GCP (Cloud Run, Cloud SQL, Pub/Sub).
+Fullstack engineer for INSPIRE 2026; designed the relational schema, configured Cloud Storage, and built out the frontend on GCP (Cloud Run, Cloud SQL).
 
 ---
 
