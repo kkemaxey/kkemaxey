@@ -22,10 +22,6 @@ Conceived and helped architect an AI-commerce analytics platform that cross-refe
 **REACH GenAI Consortium — Public Dissemination Platform**
 Fullstack engineer for INSPIRE 2026; designed the relational schema, configured Cloud Storage, and built out the frontend on GCP (Cloud Run, Cloud SQL, Pub/Sub).
 
-**Genki RAG Tutor**
-A Japanese-language study tool built on the Genki textbook using retrieval-augmented generation, with multimodal PDF extraction for scanned textbook content.
-`FastAPI` `Supabase/pgvector` `Next.js`
-
 ---
 
 ### 🛠️ Tech I work with
