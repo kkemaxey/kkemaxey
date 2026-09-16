@@ -1,6 +1,6 @@
 # Hey, I'm Kanayo 👋
 
-Senior CS student at Morehouse College, from Chicago, building my way toward a software engineering career in LA/SF.
+Senior CS student at Morehouse College, from Chicago, building my way toward a software engineering career in CA/NY/Chicago.
 
 - 🔭 Research Assistant on an NSF-funded autonomous driving/ML rover project
 - ⚙️ Fullstack developer for the Google REACH GenAI Consortium (INSPIRE 2026)
