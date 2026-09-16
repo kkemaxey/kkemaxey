@@ -18,9 +18,11 @@ Team lead + Orchestration & Scheduling Lead on a Senior Capstone project: order 
 
 **BlindEye — 🥇 1st Place, HBCU Battle of the Brains 2026**
 Designed an AI-commerce analytics platform that cross-references user interest data against multiple LLMs to measure how AI systems represent and recommend businesses. Designed the data pipeline/schema and built the visibility-metric visualizations, with a team of 8.
+`React` `Tailwind` `SQLite` `Flask` `GPT-4o` `Claude` `Gemini` `JWT Auth` `Cloud Run`
 
 **Google REACH GenAI Consortium — Public Dissemination Platform**
 Fullstack engineer for INSPIRE 2026; designed the relational schema, configured Cloud Storage, and built out the frontend.
+`Next.js` `FastAPI` `MySQL/Cloud SQL` `Firebase` `Vercel`
 
 ---
 
